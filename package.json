@@ -2,5 +2,8 @@
   "name": "hari-portfolio",
   "version": "1.0.0",
   "description": "Personal portfolio of Hari Raam K - Software Engineer & AI",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "exit 0"
+  }
 }
